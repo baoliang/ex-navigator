@@ -17,7 +17,7 @@ let ExNavigatorStyles = StyleSheet.create({
     right: 0,
   },
   bar: {
-    backgroundColor: '#f8f8f8',
+    backgroundColor: '#d71d27',
     borderBottomColor: '#b2b2b2',
     borderBottomWidth: Layout.pixel,
   },
